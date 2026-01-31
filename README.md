@@ -1,5 +1,5 @@
 # RIMT-STUDENT
 This is my  first repository.
 <br>
-author=Sakshi Gupta (student at rimt university)
+author=Sakshi Gupta (member of proX club)
 
